@@ -1,6 +1,6 @@
 programa
 {
-	inteiro economia
+	inteiro economia
 	funcao inicio()
 	{
 		escreva("quantos reais vc tem guardado? \n")
