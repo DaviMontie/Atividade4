@@ -1,6 +1,6 @@
 programa
 {
-	inteiro largura = 75, comprimento = 110
+	inteiro largura = 75, comprimento = 110
 	funcao inicio()
 	{
 		escreva("a área é: ",largura*comprimento)
