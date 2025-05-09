@@ -1,6 +1,6 @@
 programa
 {
-	real raio
+	real raio
 	funcao inicio()
 	{
 		escreva("Qual o raio do circulo? \n")
