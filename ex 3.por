@@ -1,6 +1,6 @@
 programa
 {
-	cadeia mae = "Tess"
+	cadeia mae = "Tess"
 	cadeia filha = "Anna"
 	cadeia save
 	funcao inicio()
