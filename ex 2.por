@@ -1,6 +1,6 @@
 programa
 {
-	inteiro B1, B2, B3, B4
+	inteiro B1, B2, B3, B4
 	funcao inicio()
 	{
 		leia(B1)
