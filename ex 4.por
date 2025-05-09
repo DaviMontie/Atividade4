@@ -1,6 +1,6 @@
 programa
 {
-	real metro
+	real metro
 	funcao inicio()
 	{
 		escreva("quantos metros? \n")
